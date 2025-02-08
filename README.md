@@ -20,7 +20,7 @@ I'm an aspiring **AI Engineer** with a passion for **Machine Learning and Data S
 
 ## 📫 Let's Connect!
 - **GitHub:** [github.com/Aromalunni-U](https://github.com/Aromalunni-U)
-- **LinkedIn:** [linkedin.com/in/aromalunni](www.linkedin.com/in/aromalunni-u)
+- **LinkedIn:** [linkedin.com/in/aromalunni-u](https://linkedin.com/in/aromalunni)
 
 I'm always open to collaboration and learning opportunities. Let's build something amazing together! 🚀
 
