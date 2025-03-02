@@ -19,7 +19,7 @@ I'm an aspiring **AI Engineer** with a passion for **Machine Learning and Data S
 - Contribute to open-source AI solutions
 
 ## 📫 Let's Connect!
-- **GitHub:** [github.com/Aromalunni-U](https://github.com/Aromalunni-U)
+- **Portfolio:** [https://github.com/Aromalunni-U](https://aromalunni-u.github.io/Portfolio/)
 - **LinkedIn:** [linkedin.com/in/aromalunni-u](https://linkedin.com/in/aromalunni-u)
 
 I'm always open to collaboration and learning opportunities. Let's build something amazing together! 🚀
