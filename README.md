@@ -13,10 +13,6 @@ I'm an aspiring **AI Engineer** with a passion for **Machine Learning and Data S
 - **Water Quality Prediction:** Developed a classification model to assess water safety.
 - **IMDb Movie Rating Prediction:** Created a model to predict movie ratings based on various factors.
 
-## 🎯 Goals
-- Improve my skills in **Deep Learning & NLP**
-- Work on real-world AI projects
-- Contribute to open-source AI solutions
 
 ## 📫 Let's Connect!
 - **Portfolio:** [https://github.com/Aromalunni-U](https://aromalunni-u.github.io/Portfolio/)
